@@ -1,7 +1,7 @@
 body {
     margin: 0;
     cursor: crosshair;
-    background-image: url(/img/bluey.png);
+    background: black;
   }
   canvas{
     display:flex;
@@ -13,7 +13,7 @@ body {
     transform: translate(-50%, -50%);
     color: #EA8FEA;
     font-family: "Impact,Charcoal,sans-serif";
-    font-size: 5em;
+    font-size: 4em;
     font-weight: 800;
     -webkit-user-select: none;
     user-select: none;
@@ -25,7 +25,7 @@ body {
     transform: translate(-50%, -50%);
     color: pink;
     font-family: "Impact,Charcoal,sans-serif";
-    font-size: 6em !important;
+    font-size: 5em;
     font-weight: 800;
     -webkit-user-select: none;
     user-select: none;
