@@ -13,7 +13,7 @@ body {
     transform: translate(-50%, -50%);
     color: #EA8FEA;
     font-family: "Impact,Charcoal,sans-serif";
-    font-size: 4em;
+    font-size: 3em;
     font-weight: 800;
     -webkit-user-select: none;
     user-select: none;
@@ -25,7 +25,7 @@ body {
     transform: translate(-50%, -50%);
     color: pink;
     font-family: "Impact,Charcoal,sans-serif";
-    font-size: 5em;
+    font-size: 6em;
     font-weight: 800;
     -webkit-user-select: none;
     user-select: none;
