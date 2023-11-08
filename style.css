@@ -1,9 +1,11 @@
 body {
     margin: 0;
-    background: #020202;
     cursor: crosshair;
+    background-image: url(/img/bluey.png);
   }
-  canvas{display:block}
+  canvas{
+    display:flex;
+  }
   h1 {
     position: absolute;
     top: 25%;
@@ -18,12 +20,12 @@ body {
   }
   h2 {
     position: absolute;
-    top: 85%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: pink;
     font-family: "Impact,Charcoal,sans-serif";
-    font-size: 5em;
+    font-size: 6em !important;
     font-weight: 800;
     -webkit-user-select: none;
     user-select: none;
