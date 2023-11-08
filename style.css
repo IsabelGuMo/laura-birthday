@@ -52,12 +52,12 @@ body {
   @media screen {
     h1 {
         text-align: center;
-        font-size: 3.5em;  
+        font-size: 2.5em;  
     }
 
     h2{
         text-align: center;
-        font-size: 2.8em;
+        font-size: 3.5em;
     }
 
     h3 {
