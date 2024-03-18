@@ -8,7 +8,7 @@ body {
   }
   h1 {
     position: absolute;
-    top: 25%;
+    top: 20%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: #EA8FEA;
@@ -39,6 +39,7 @@ body {
     color: #A459D1;
     font-size: 40px;
     padding-bottom: 10px;
+    width: 100%;
   }
 
   h4 {
@@ -48,6 +49,13 @@ body {
     transform: translate(-50%, -50%);
     color: #d159b1;
     font-size: 40px !important;
+  }
+
+  h5 {
+    position: absolute;
+    color: coral;
+    top: 90%;
+    left: 30%;
   }
 
   @media screen {
