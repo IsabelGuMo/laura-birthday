@@ -55,7 +55,8 @@ body {
     position: absolute;
     color: coral;
     top: 90%;
-    left: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
   }
 
   @media screen {
@@ -74,7 +75,7 @@ body {
         font-size: 2.3em;
     }
 
-    h4 {
+    h4, h5 {
         text-align: center;
         font-size: 1.3em;
     }
